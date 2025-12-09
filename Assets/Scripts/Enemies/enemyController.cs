@@ -17,7 +17,6 @@ public class enemyController : MonoBehaviour
     private float nextDamageTime = 0f;
     private Animator animator;
     private Quaternion rotacion;
-    //private GameObject target;
     private playerController player;
     // Start is called before the first frame update
     void Start()
